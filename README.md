@@ -11,5 +11,5 @@ A card that shows some information about the user selected in the prop username
 ## Links
 Github Api: https://api.github.com/
 
-##Preview
+## Preview
 ![fotor_2023-3-7_18_1_34](https://user-images.githubusercontent.com/59897065/223553420-978e43d1-0dd3-434c-8a73-e87dc2c55119.png)
